@@ -9,6 +9,7 @@ h1, h2, h3{
   color: #171717;
   text-align: center;
   text-decoration: underline;
+  font-style: italic;
 }
 div{
   display: flex;
@@ -38,4 +39,7 @@ a{
   color: red;
   width: 30;
   padding: 10px;
+}
+p{
+font-style: italic; 
 }
